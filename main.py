@@ -18,7 +18,7 @@ PHONE_NUMBER = '+573208930349'
 USERNAME = '@LuxuryyEmpiree'
 
 # Mensaje a enviar
-MESSAGE = "RATA LADRONA TRIPLE, HP**** CONTÉSTE. LADRÓN O SE MAMA DE ESCUCHAR MENSAJES O ME CONTÉSTA LO ESTOY AMENAZANDO "
+MESSAGE = "HERE YOU TYPE YOUR MESSAGE"
 
 # Tiempo en segundos durante el cual se enviarán los mensajes
 DURATION = 60  # 1 minuto
