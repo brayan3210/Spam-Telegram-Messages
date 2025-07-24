@@ -21,6 +21,7 @@ Antes de ejecutar este script, asegúrate de tener lo siguiente:
     -   Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
 -   **Cuenta de Telegram**: Necesitarás una cuenta activa de Telegram.
 -   **API ID y API Hash de Telegram**: Estos son credenciales esenciales para que el script interactúe con la API de Telegram. Puedes obtenerlos en [my.telegram.org](https://my.telegram.org/).
+-   **Documentación si es necesaria para el que la use**: . Puedes obtenerla en [https://deepwiki.com](https://deepwiki.com/brayan3210/Spam-Telegram-Messages).
 
 ## 🚀 Instalación
 
